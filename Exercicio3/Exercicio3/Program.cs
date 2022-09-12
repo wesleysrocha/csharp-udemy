@@ -22,7 +22,7 @@ namespace Exercicio1
             
             diferenca = n1 * n2 - n3 * n4;
 
-            Console.WriteLine("\nA diferença é: " + diferenca);
+            Console.WriteLine("\nA diferença é: " + diferenca);            
         }
     }
 }
