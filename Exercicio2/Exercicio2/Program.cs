@@ -7,14 +7,25 @@ namespace Exercicio1
     {
         static void Main(string[] args)
         {
-            double raio, area, pi = 3.14159;
+            Console.WriteLine("Digite um valor entre 0 e 100");
 
-            Console.Write("Digite um raio para ser calculado: ");
-            raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double numero = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            area = pi * raio * raio;
-
-            Console.WriteLine("\nArea do circulo = " + area.ToString("F4", CultureInfo.InvariantCulture));
+            if (numero < 0.0 || numero > 100.0) {
+                Console.WriteLine("Fora de intervalo");
+            }
+            else if (numero <= 25.0) {
+                Console.WriteLine("Intervalo [0,25]");
+            }
+            else if (numero <= 50.0) {
+                Console.WriteLine("Intervalo (25,50]");
+            }
+            else if (numero <= 75.0) {
+                Console.WriteLine("Intervalo (50,75]");
+            }
+            else {
+                Console.WriteLine("Intervalo (75,100]");
+            }
         }
     }
 }
