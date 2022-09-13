@@ -1,0 +1,15 @@
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioEnquanto\ExercicioEnquanto\bin\Debug\net6.0\ExercicioEnquanto.exe
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioEnquanto\ExercicioEnquanto\bin\Debug\net6.0\ExercicioEnquanto.deps.json
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioEnquanto\ExercicioEnquanto\bin\Debug\net6.0\ExercicioEnquanto.runtimeconfig.json
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioEnquanto\ExercicioEnquanto\bin\Debug\net6.0\ExercicioEnquanto.dll
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioEnquanto\ExercicioEnquanto\bin\Debug\net6.0\ExercicioEnquanto.pdb
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioEnquanto\ExercicioEnquanto\obj\Debug\net6.0\ExercicioEnquanto.csproj.AssemblyReference.cache
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioEnquanto\ExercicioEnquanto\obj\Debug\net6.0\ExercicioEnquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioEnquanto\ExercicioEnquanto\obj\Debug\net6.0\ExercicioEnquanto.AssemblyInfoInputs.cache
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioEnquanto\ExercicioEnquanto\obj\Debug\net6.0\ExercicioEnquanto.AssemblyInfo.cs
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioEnquanto\ExercicioEnquanto\obj\Debug\net6.0\ExercicioEnquanto.csproj.CoreCompileInputs.cache
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioEnquanto\ExercicioEnquanto\obj\Debug\net6.0\ExercicioEnquanto.dll
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioEnquanto\ExercicioEnquanto\obj\Debug\net6.0\refint\ExercicioEnquanto.dll
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioEnquanto\ExercicioEnquanto\obj\Debug\net6.0\ExercicioEnquanto.pdb
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioEnquanto\ExercicioEnquanto\obj\Debug\net6.0\ExercicioEnquanto.genruntimeconfig.cache
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioEnquanto\ExercicioEnquanto\obj\Debug\net6.0\ref\ExercicioEnquanto.dll
