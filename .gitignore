@@ -1,0 +1,7 @@
+*slnx.sqlite
+*.sqlite
+*.suo
+*.sqlite
+
+ExercicioEstruturaSequencial/
+ExercicioEnquanto/
