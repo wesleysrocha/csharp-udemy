@@ -7,22 +7,39 @@ namespace Exercicio1
     {
         static void Main(string[] args)
         {
-            int n1, n2, n3, n4, diferenca;
+            //EXERCÍCIO 3 WHILE
+            Console.WriteLine("telemarketing posto de gasolina, qual é o seu pedido?");
+            Console.WriteLine("1 - digite alcool");
+            Console.WriteLine("2 - digite gasolina");
+            Console.WriteLine("3 - digite diesel");
+            int alcool = 0;
+            int gasolina = 0;
+            int diesel = 0;
 
-            Console.WriteLine("Diferença do produto de quatro valores \n");
+            int tipo = int.Parse(Console.ReadLine());
 
-            Console.Write("Digite o primeiro valor: ");
-            n1 = int.Parse(Console.ReadLine());
-            Console.Write("Digite o segundo valor: ");
-            n2 = int.Parse(Console.ReadLine());
-            Console.Write("Digite o terceiro valor: ");
-            n3 = int.Parse(Console.ReadLine());
-            Console.Write("Digite o quarto valor: ");
-            n4 = int.Parse(Console.ReadLine());    
-            
-            diferenca = n1 * n2 - n3 * n4;
+            while (tipo != 4)
+            {
+                if (tipo == 1)
+                {
+                    alcool++;
+                }
+                else if (tipo == 2)
+                {
+                    gasolina++;
+                }
+                else if (tipo == 3)
+                {
+                    diesel++;
+                }
+                Console.WriteLine("algo mais? Senão precione 4");
+                tipo = int.Parse(Console.ReadLine());
+            }
 
-            Console.WriteLine("\nA diferença é: " + diferenca);            
+            Console.WriteLine("MUITO OBRIGADO");
+            Console.WriteLine("Alcool: " + alcool);
+            Console.WriteLine("Gasolina: " + gasolina);
+            Console.WriteLine("Diesel: " + diesel);
         }
     }
 }
