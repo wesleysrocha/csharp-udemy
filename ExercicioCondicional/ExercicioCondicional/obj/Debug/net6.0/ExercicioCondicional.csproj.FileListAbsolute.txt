@@ -1,0 +1,15 @@
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioCondicional\ExercicioCondicional\bin\Debug\net6.0\ExercicioCondicional.exe
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioCondicional\ExercicioCondicional\bin\Debug\net6.0\ExercicioCondicional.deps.json
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioCondicional\ExercicioCondicional\bin\Debug\net6.0\ExercicioCondicional.runtimeconfig.json
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioCondicional\ExercicioCondicional\bin\Debug\net6.0\ExercicioCondicional.dll
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioCondicional\ExercicioCondicional\bin\Debug\net6.0\ExercicioCondicional.pdb
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioCondicional\ExercicioCondicional\obj\Debug\net6.0\ExercicioCondicional.csproj.AssemblyReference.cache
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioCondicional\ExercicioCondicional\obj\Debug\net6.0\ExercicioCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioCondicional\ExercicioCondicional\obj\Debug\net6.0\ExercicioCondicional.AssemblyInfoInputs.cache
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioCondicional\ExercicioCondicional\obj\Debug\net6.0\ExercicioCondicional.AssemblyInfo.cs
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioCondicional\ExercicioCondicional\obj\Debug\net6.0\ExercicioCondicional.csproj.CoreCompileInputs.cache
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioCondicional\ExercicioCondicional\obj\Debug\net6.0\ExercicioCondicional.dll
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioCondicional\ExercicioCondicional\obj\Debug\net6.0\refint\ExercicioCondicional.dll
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioCondicional\ExercicioCondicional\obj\Debug\net6.0\ExercicioCondicional.pdb
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioCondicional\ExercicioCondicional\obj\Debug\net6.0\ExercicioCondicional.genruntimeconfig.cache
+C:\Users\DTI Digital\Documents\exercicios-csharp\csharp-udemy\ExercicioCondicional\ExercicioCondicional\obj\Debug\net6.0\ref\ExercicioCondicional.dll
