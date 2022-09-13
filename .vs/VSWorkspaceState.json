@@ -1,16 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\bee",
-    "\\Exercicio1",
-    "\\Exercicio1\\Exercicio1",
     "\\Exercicio2",
     "\\Exercicio2\\Exercicio2",
-    "\\Exercicio3",
-    "\\Exercicio3\\Exercicio3",
-    "\\Exercicio4",
-    "\\Exercicio4\\Exercicio4"
+    "\\ExercicioEstruturaSequencial",
+    "\\ExercicioEstruturaSequencial\\ExercicioEstruturaSequencial"
   ],
-  "SelectedNode": "\\Exercicio1\\Exercicio1.sln",
+  "SelectedNode": "\\Exercicio2\\Exercicio2\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
