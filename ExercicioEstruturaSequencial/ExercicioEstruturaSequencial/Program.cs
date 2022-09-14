@@ -7,22 +7,23 @@ namespace ExercicioEstruturaSequencial
     {
         static void Main(string[] args)
         {
-            //exercicio 1
-            /*
-            int n1, n2, soma;
+        //exercicio 1
+            
+            //int n1, n2, soma;
 
-            Console.WriteLine("Soma de dois valores \n");
-            Console.Write("Digite o primeiro valor: ");
-            n1 = int.Parse(Console.ReadLine());
-            Console.Write("Digite o segundo valor: ");
-            n2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Soma de dois valores \n");
+            //Console.Write("Digite o primeiro valor: ");
+            //n1 = int.Parse(Console.ReadLine());
+            //Console.Write("Digite o segundo valor: ");
+            //n2 = int.Parse(Console.ReadLine());
 
-            soma = n1 + n2;
+            //soma = n1 + n2;
 
-            Console.WriteLine("\nA soma de " + n1 + " + " + n2 + " = " + soma);
-            */
+            //Console.WriteLine("\nA soma de " + n1 + " + " + n2 + " = " + soma);
+            
 
-            //exercicio 2
+        //exercicio 2
+
             //double raio, area, pi = 3.14159;
 
             //Console.Write("Digite um raio para ser calculado: ");
@@ -32,7 +33,8 @@ namespace ExercicioEstruturaSequencial
 
             //Console.WriteLine("\nArea do circulo = " + area.ToString("F4", CultureInfo.InvariantCulture));
 
-            //exercicio 3
+        //exercicio 3
+
             // int n1, n2, n3, n4, diferenca;
 
             // Console.WriteLine("Diferença do produto de quatro valores \n");
@@ -50,7 +52,8 @@ namespace ExercicioEstruturaSequencial
 
             // Console.WriteLine("\nA diferença é: " + diferenca);
 
-            //exercicio 4
+        //exercicio 4
+
             // double salario, valorHorasDia;
             // int numeroFuncionario, valorHoras;
 
@@ -69,7 +72,7 @@ namespace ExercicioEstruturaSequencial
             // Console.WriteLine("Salário total mês é " + salario.ToString("F2", CultureInfo.InvariantCulture));
 
 
-            //exercicio 5
+        //exercicio 5
 
             //int codigoPeca1, codigoPeca2, quantidadePeca1, quantidadePeca2;
             //double precoPeca1, precoPeca2, total;
@@ -91,7 +94,7 @@ namespace ExercicioEstruturaSequencial
             //Console.WriteLine("total a pagar: R$ " + total.ToString("F2", CultureInfo.InvariantCulture));
 
 
-            //exercicio 6
+        //exercicio 6
 
             // double A, B, C, triangulo, circulo, trapezio, quadrado, retangulo;
 
@@ -113,7 +116,8 @@ namespace ExercicioEstruturaSequencial
             // Console.WriteLine("RETANGULO: " + retangulo.ToString("F3", CultureInfo.InvariantCulture));
 
 
-            //EXERCICIO 6 condicional
+        //EXERCICIO 6 condicional
+
             //Console.WriteLine("Digite um valor entre 0 e 100");
 
             //double numero = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -139,39 +143,57 @@ namespace ExercicioEstruturaSequencial
             //    Console.WriteLine("Intervalo (75,100]");
 
 
-            //EXERCÍCIO 3 WHILE
-            Console.WriteLine("telemarketing posto de gasolina, qual é o seu pedido?");
-            Console.WriteLine("1 - digite alcool");
-            Console.WriteLine("2 - digite gasolina");
-            Console.WriteLine("3 - digite diesel");
-            int alcool = 0;
-            int gasolina = 0;
-            int diesel = 0;
+        //EXERCICIO 3 WHILE
 
-            int tipo = int.Parse(Console.ReadLine());
+            //Console.WriteLine("telemarketing posto de gasolina, qual é o seu pedido?");
+            //Console.WriteLine("1 - digite alcool");
+            //Console.WriteLine("2 - digite gasolina");
+            //Console.WriteLine("3 - digite diesel");
+            //int alcool = 0;
+            //int gasolina = 0;
+            //int diesel = 0;
 
-            while (tipo != 4)
+            //int tipo = int.Parse(Console.ReadLine());
+
+            //while (tipo != 4)
+            //{
+            //    if (tipo == 1)
+            //    {
+            //        alcool++;
+            //    }
+            //    else if (tipo == 2)
+            //    {
+            //        gasolina++;
+            //    }
+            //    else if (tipo == 3)
+            //    {
+            //        diesel++;
+            //    }
+            //    Console.WriteLine("algo mais? Senão precione 4");
+            //    tipo = int.Parse(Console.ReadLine());
+            //}
+
+            //Console.WriteLine("MUITO OBRIGADO");
+            //Console.WriteLine("Alcool: " + alcool);
+            //Console.WriteLine("Gasolina: " + gasolina);
+            //Console.WriteLine("Diesel: " + diesel);
+
+
+        //EXERCICIO 6 FOR
+
+            Console.WriteLine("Digite um número inteiro: ");
+            int n = int.Parse(Console.ReadLine());
+            
+            Console.WriteLine("Todos os divisores possíveis de " + n + ":");
+
+            for (int i = 1; i <= n; i++)
             {
-                if (tipo == 1)
+                if (n % i == 0)
                 {
-                    alcool++;
-                }
-                else if (tipo == 2)
-                {
-                    gasolina++;
-                }
-                else if (tipo == 3)
-                {
-                    diesel++;
-                }
-                Console.WriteLine("algo mais? Senão precione 4");
-                tipo = int.Parse(Console.ReadLine());
-            }
+                    Console.Write(i + " ");
 
-            Console.WriteLine("MUITO OBRIGADO");
-            Console.WriteLine("Alcool: " + alcool);
-            Console.WriteLine("Gasolina: " + gasolina);
-            Console.WriteLine("Diesel: " + diesel);
+                }
+            }
         }
-    }    
+    }
 }
