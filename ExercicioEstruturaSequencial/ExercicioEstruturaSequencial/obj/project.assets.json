@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DTI Digital\\Documents\\exercicios-csharp\\csharp-udemy-beecrowd\\csharp-udemy\\ExercicioEstruturaSequencial\\ExercicioEstruturaSequencial\\ExercicioContaBancaria.csproj",
-      "projectName": "ExercicioContaBancaria",
-      "projectPath": "C:\\Users\\DTI Digital\\Documents\\exercicios-csharp\\csharp-udemy-beecrowd\\csharp-udemy\\ExercicioEstruturaSequencial\\ExercicioEstruturaSequencial\\ExercicioContaBancaria.csproj",
+      "projectUniqueName": "C:\\Users\\DTI Digital\\Documents\\exercicios-csharp\\csharp-udemy-beecrowd\\csharp-udemy\\ExercicioEstruturaSequencial\\ExercicioEstruturaSequencial\\ExercicioEstruturaSequencial.csproj",
+      "projectName": "ExercicioEstruturaSequencial",
+      "projectPath": "C:\\Users\\DTI Digital\\Documents\\exercicios-csharp\\csharp-udemy-beecrowd\\csharp-udemy\\ExercicioEstruturaSequencial\\ExercicioEstruturaSequencial\\ExercicioEstruturaSequencial.csproj",
       "packagesPath": "C:\\Users\\DTI Digital\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\DTI Digital\\Documents\\exercicios-csharp\\csharp-udemy-beecrowd\\csharp-udemy\\ExercicioEstruturaSequencial\\ExercicioEstruturaSequencial\\obj\\",
       "projectStyle": "PackageReference",
