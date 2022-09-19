@@ -6,16 +6,15 @@ public class bee1007
     {
         double A, B, C, media;
 
-        A = int.Parse(Console.ReadLine());
-        B = int.Parse(Console.ReadLine());
-        C = int.Parse(Console.ReadLine());
-        D = int.Parse(Console.ReadLine());
+        A = double.Parse(Console.ReadLine());
+        A = A * 2;
+        B = double.Parse(Console.ReadLine());
+        B = B * 3;
+        C = double.Parse(Console.ReadLine());
+        C = C * 5;
 
-        diferenca = A * B - C * D;
-
-        
-
-        Console.WriteLine("MEDIA " + media).ToString("F2", CultureInfo.InvariantCulture));
+        media = (A + B + C) / 10;
+        Console.WriteLine("MEDIA: " + media.ToString("F1"));
 
     }
 }
