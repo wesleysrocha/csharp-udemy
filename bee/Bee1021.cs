@@ -25,7 +25,5 @@ class URI
             dinheiro -= quantidadedenotas * valor[i];
             dinheiro = Math.Round(dinheiro, 2);
         }
-        Console.ReadKey();
     }
-
 }
