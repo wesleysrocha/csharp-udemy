@@ -7,7 +7,7 @@ using ExercicioEstruturaSequencial.Entities.Exceptions;
 
 namespace ExercicioEstruturaSequencial.Entities
 {
-    class Account
+    public class Account
     {
         public int Number { get; set; }
         public string Holder { get; set; }
